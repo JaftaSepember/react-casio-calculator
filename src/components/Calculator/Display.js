@@ -1,16 +1,17 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-const image=require('../../casio.png')
+const image = require('../../casio.png')
+
 
 const Display = (props) => (
     <div>
         <div className="mt-md-2" style={{ position: 'relative' }}>
             <div className="row" style={{ marginTop: "14px" }}>
                 <div className="col-sm-5" style={{ marginLeft: '27px' }}>
-                   <div><img src={image}/></div>
-                    
+                    <div><img src={image} /></div>
+
                 </div>
-                <div className="col-sm-5 black-power" style={{ backgroundColor: "black",height:'42px' }}></div>
+                <div className="col-sm-5 black-power" style={{ backgroundColor: "black", height: '42px' }}></div>
             </div>
             <div className="text-power">TWO WAY POWER</div>
         </div>
