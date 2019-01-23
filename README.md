@@ -157,4 +157,4 @@ Follow the following steps to get development environment running.
 
 ## Authors
 
-* **Saeed Afroozi** - *Initial work* - [drminnaar](https://github.com/saeedafroozi)
+* **Saeed Afroozi** - *Initial work* - (https://github.com/saeedafroozi)
